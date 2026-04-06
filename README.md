@@ -1,6 +1,6 @@
 # Cointegration based algorithmic trading strategies
 
-The jupyter file [dsterczer/Algorithmic](https://github.com/dsterczer/Algorithmic-Trading/blob/main/AlgorithmicTrading.ipynb) shows how quantitive methods can amplify the profitmaking abilities of algorithmic trades. 
+The jupyter file [AlgoTrading](https://github.com/dsterczer/Algorithmic-Trading/blob/main/AlgorithmicTrading.ipynb) shows how quantitive methods can amplify the profitmaking abilities of algorithmic trades. 
 
 * Firstly, it introduces a cointegrating test algorithm which selects the best performing asset pairs
 * Throughout a linear mean reversion strategy we can see how the cointegrating vector of the Johansen test helps to find the appropriate hedge ratio

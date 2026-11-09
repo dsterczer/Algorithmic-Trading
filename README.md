@@ -6,4 +6,5 @@ The jupyter file [AlgoTrading](https://github.com/dsterczer/Algorithmic-Trading/
 * The cointegration vector of the Johansen test helps to find a suitable hedge ratio for a linear mean reversion strategy (multiprocessed execution of the cointegration tests completes it a quarter of the time earlier than regular execution)
 * Applying Kalman Filter and Bollinger bands improve the profitability
 * The momentum strategy provides a good complement to the mean reverting strategy
+* I wrote the analysis myself and used an AI assistant for code review
 * Possible future development: how these strategies should be allocated to maximaze the performance of the portfolio 
